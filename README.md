@@ -6,7 +6,6 @@ Components for React + Storybook + NPM Publish
 
 ```
   yarn add ep-my-storybook-components
-  npm i ep-my-storybook-components
 ```
 
 ## Demo
