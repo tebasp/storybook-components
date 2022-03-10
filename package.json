@@ -1,6 +1,7 @@
 {
   "name": "ep-my-storybook-components",
   "version": "0.1.0",
+  "author": "Esteban Palomeque",
   "private": false,
   "license": "MIT",
   "typings": "dist/index.d.ts",
